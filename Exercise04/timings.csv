@@ -1,0 +1,7 @@
+program,processes,time_seconds
+sum,1,0.00281192
+sum,2,0.00123254
+sum,4,0.00204775
+pi_montecarlo,1,0.244874
+pi_montecarlo,2,0.128654
+pi_montecarlo,4,0.0873747
